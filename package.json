@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "This is a intro to node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deep0410/intro-to-nodejs.git"
+  },
+  "author": "Deep Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep0410/intro-to-nodejs/issues"
+  },
+  "homepage": "https://github.com/deep0410/intro-to-nodejs#readme"
+}
